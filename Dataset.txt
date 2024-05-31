@@ -1,0 +1,27 @@
+Subset of TEVOID Corpus 
+
+Speaker:
+- 16 younger adults
+- 10 older adults
+
+Speaking style: 
+- read speech 
+
+Language
+- Zurich German
+
+Number of sentences
+- 60 sentences are available in this subset, but in total 256 sentences were recorded
+
+ANNOTATION
+- The corpus is already segmented in syllables, and syllable intensity peaks. Tiers numbers correspond across files.
+- Run the praat script Intensity analyzer on the corpus to get syllable intensity measures. The table with rhythmic metrics based on CV intervals is provided in the OLAT folder Assignment
+- Notes on the independent variables from the file names available in the folder https://seafile.ifi.uzh.ch/d/602fb257f36a424d8ddd/
+Es. o_01f_read_002 
+
+age group = o (old); y (young)
+speaker ID = 01, 02, 03... 
+sex = f (female), m (male)
+speech mode = read
+sentence number =from 001 to 256
+  
